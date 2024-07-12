@@ -36,6 +36,7 @@ It streamlines the development process, ensuring that each part is completed eff
 ## Stage 3: Efficient Information Delivery and Organization
 ### Purpose:
 Ensuring that everyone involved understands their role, expectations, and how they contribute to the project's success.
+It is extremely important to get every stakeholder on board and in alignment with the intended direction of the project, any disagreements on both high and low level can lead to miscommunication, deviation from plan and cascading cost in time and resources to correct.
 
 ### Why It Matters:
 Clear communication prevents misunderstandings, fosters collaboration, and ensures that everyone is aligned towards the project's objectives.
